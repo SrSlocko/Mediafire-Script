@@ -43,7 +43,6 @@ bash
 ./mediafire.sh https://www.mediafire.com/file/ejemplo12345/archivo.zip
 El script detectará automáticamente la herramienta de descarga adecuada y comenzará la descarga del archivo.
 
-
 Notas
 El script verifica si las URL proporcionadas son válidas y ofrece mensajes de error si no lo son.
 Si la URL proporcionada es una URL de identificación de Mediafire, el script la convierte en una URL de descarga.
