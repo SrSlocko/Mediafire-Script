@@ -40,7 +40,7 @@ Donde [opciones] puede ser:
 Por ejemplo, para descargar un archivo desde Mediafire, puedes ejecutar el script de la siguiente manera:
 
 bash
-./mediafire_downloader.sh https://www.mediafire.com/file/ejemplo12345/archivo.zip
+./mediafire.sh https://www.mediafire.com/file/ejemplo12345/archivo.zip
 El script detectará automáticamente la herramienta de descarga adecuada y comenzará la descarga del archivo.
 
 
